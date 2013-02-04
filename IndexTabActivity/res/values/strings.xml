@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Startup</string>
+    <string name="title_section6">Collection</string>
+    <string name="title_section5">Share</string>
+	<string name="title_section4">Knowledge</string>  
+    <string name="title_section3">News</string>
+    <string name="title_section2">Starters</string>
+    <string name="title_section1">Articles</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_index_tab">IndexTabActivity</string>
+
+</resources>
